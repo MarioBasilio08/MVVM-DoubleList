@@ -1,0 +1,9 @@
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\bin\Debug\List.ViewModel.dll
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\bin\Debug\List.ViewModel.pdb
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\bin\Debug\List.Model.dll
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\bin\Debug\List.Model.pdb
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\obj\Debug\List.ViewModel.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\obj\Debug\List.ViewModel.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\obj\Debug\List.ViewModel.csproj.CopyComplete
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\obj\Debug\List.ViewModel.dll
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.ViewModel\obj\Debug\List.ViewModel.pdb

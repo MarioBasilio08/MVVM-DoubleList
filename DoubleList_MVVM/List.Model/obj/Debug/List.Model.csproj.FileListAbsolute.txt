@@ -1,0 +1,6 @@
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.Model\bin\Debug\List.Model.dll
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.Model\bin\Debug\List.Model.pdb
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.Model\obj\Debug\List.Model.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.Model\obj\Debug\List.Model.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.Model\obj\Debug\List.Model.dll
+D:\Trabajo\Ejercicios\MVVM-DoubleList\DoubleList_MVVM\List.Model\obj\Debug\List.Model.pdb
